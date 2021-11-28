@@ -1,0 +1,16 @@
+body {
+    background-color: hsla(0, 0%, 0%, 0.918);
+    color: white;
+    font: normal 16px helvetica;
+    text-align: center;
+}
+
+div {
+    background-color: maroon;
+    color: white;
+    font-size: 30px;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+}

@@ -1,0 +1,5 @@
+let lista = ['Ovo', 'Farinha', 'Leite', 'Açúcar']
+
+lista.reverse()
+let res = lista
+console.log(res)

@@ -1,0 +1,1 @@
+document.getElementById('exemplo').innerHTML = 'Pedro <button>clique em mim</button>'

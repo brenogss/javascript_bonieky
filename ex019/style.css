@@ -1,0 +1,19 @@
+body {
+    background-color:black;
+    color: white;
+    font: normal 16px helvetica;
+    text-align: center;
+}
+
+
+
+
+ section {
+     background-color: mediumblue;
+     color: whitesmoke;
+     text-align: left;
+     width: 500px;
+     margin: 0 auto;
+     padding: 15px;
+     border-radius: 20px 15px;
+ }

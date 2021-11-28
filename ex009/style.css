@@ -1,0 +1,35 @@
+body {
+    font: normal 16px sans-serif;
+    text-align: center;
+}
+
+div {
+    background-color: #116c88;
+    height: 55px;
+    width: 305px;
+    margin: auto;
+    margin-top: 15px;
+    padding:  20px;
+    border-radius: 10px;
+    
+}
+
+#campo {
+    border-radius: 8px;
+    border: solid 2px rgba(204, 204, 204, 0.692);
+    padding: 8px;
+}
+
+button {
+    background-color: white;
+    border-radius: 8px;
+    border: solid 2px rgba(204, 204, 204, 0.521);
+    padding: 8px;
+    
+}
+
+button:hover {
+    background-color: rgb(14, 170, 170);
+    border: solid 2px rgb(14, 170, 170);
+    color: white;
+}

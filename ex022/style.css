@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+    font: normal 16px arial;
+    text-align: center;
+}
+
+div {
+    background-color: crimson;
+    color: #CCC;
+    font: bold 28px arial;
+    width: 150px;
+    height: 30px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+
+
+    
+button {
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 15px;
+    background-color: crimson;
+    color: white;
+    border: 1px solid black;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
